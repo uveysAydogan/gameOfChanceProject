@@ -1,0 +1,16 @@
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\bin\Debug\net6.0-windows\sayisalLotoProjesi.exe
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\bin\Debug\net6.0-windows\sayisalLotoProjesi.deps.json
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\bin\Debug\net6.0-windows\sayisalLotoProjesi.runtimeconfig.json
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\bin\Debug\net6.0-windows\sayisalLotoProjesi.dll
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\bin\Debug\net6.0-windows\sayisalLotoProjesi.pdb
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.Form1.resources
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.csproj.GenerateResource.cache
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.AssemblyInfoInputs.cache
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.AssemblyInfo.cs
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.dll
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\refint\sayisalLotoProjesi.dll
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.pdb
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\sayisalLotoProjesi.genruntimeconfig.cache
+C:\Users\Uveys\Desktop\C# 2023\sayisalLotoProjesi\sayisalLotoProjesi\obj\Debug\net6.0-windows\ref\sayisalLotoProjesi.dll
